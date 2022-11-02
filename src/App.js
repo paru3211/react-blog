@@ -18,7 +18,6 @@ function App() {
   return (
     <Router>
       <TopBar />
-   
       <Switch>
         <Route exact path="/">
           <Home />
